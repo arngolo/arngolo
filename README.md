@@ -30,5 +30,5 @@ Cartography, Web mapping, WebML
 beyond the visible part of the electro-magnetic spectrum.
 
 ## Tools (plugins)
-[pqkmeans-arctoolbox](https://github.com/arngolo/pqkmeans-arctoolbox) - a quantized version of the clustering algorithm K-Means, used for satellite image classification in ArcGIS Pro.
+[pqkmeans-arctoolbox](https://github.com/arngolo/pqkmeans-arctoolbox) - a quantized version of the clustering algorithm K-Means, used for satellite image classification in ArcGIS Pro.  
 [pqkmeans-qgis-plugin](https://github.com/arngolo/pqkmeans-qgis-plugin) - a quantized version of the clustering algorithm K-Means, used for satellite image classification in QGIS.
