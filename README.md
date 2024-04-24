@@ -24,8 +24,8 @@ I am an AI engineer passionate about Geotechnologies.
 Cartography, Web mapping, WebML
 
 ## Projects
-[IoF50](https://github.com/arngolo/IoF50) - Web map application to perform spatial analysis on the fly. 
-[IoD50](https://github.com/arngolo/Iod50) - Web map application for imagery object detection.
+[IoF50](https://github.com/arngolo/IoF50) - Web map application to perform spatial analysis on the fly.  
+[IoD50](https://github.com/arngolo/Iod50) - Web map application for imagery object detection.  
 [Beyond RGB](https://github.com/mkuriki1990/beyond-RGB) - Web map application for displaying the earth environment 
 beyond the visible part of the electro-magnetic spectrum.
 
