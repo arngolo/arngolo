@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arngolo)](https://github.com/anuraghazra/github-readme-stats)
+[![arngolo's GitHub Stats](https://github-readme-stats-git-master-armstrong-ngolos-projects.vercel.app/api?username=arngolo&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/arngolo/github-readme-stats)
+
 
 ## About me
 I am an AI engineer passionate about Geotechnologies.
