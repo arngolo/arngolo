@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 <!--
 [![arngolo's GitHub Stats](https://github-readme-stats-git-master-armstrong-ngolos-projects.vercel.app/api?username=arngolo&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/arngolo/github-readme-stats)
 -->
-
-## About me
 I am an AI engineer passionate about Geotechnologies.
 
 ## My interests
